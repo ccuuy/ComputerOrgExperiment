@@ -6,4 +6,4 @@
 
 3.时序乘法器及改进、简单RAM的实现
 
-4.简单单周期riscv处理器的实现在单独放在了[riscv处理器](https://github.com/ccuuy/riscv)
+4.简单单周期riscv处理器的实现在单独放在了[riscv处理器](https://github.com/ccuuy/riscv)仓库
